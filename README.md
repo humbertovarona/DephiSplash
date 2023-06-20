@@ -1,6 +1,6 @@
 # DephiSplash
 
-Just to simulate the data packet from the sensors
+Simple Splash example in delphi
 
 # Version
 
@@ -8,7 +8,7 @@ Just to simulate the data packet from the sensors
 
 # Release date
 
-![](https://img.shields.io/badge/Release%20date-May%2C%2012%2C%202023-9cf)
+![](https://img.shields.io/badge/Release%20date-May%2C%2020%2C%202023-9cf)
 
 # License
 
